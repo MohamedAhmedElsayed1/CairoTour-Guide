@@ -2,3 +2,4 @@ this is my first command
 add line
 add anther
 anther thirld line
+add new firstcommandline

@@ -2,3 +2,4 @@ second file
 second edit
 
 third line
+add new second line 
